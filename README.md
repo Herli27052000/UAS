@@ -22,8 +22,7 @@
 ![lihat](https://user-images.githubusercontent.com/72916741/104220500-2d6c2880-5472-11eb-98d6-3e09ec86fc7c.png)
 
 * **Output ubah_data**
-
-  <img width="454" alt="opsiUbah" src="https://user-images.githubusercontent.com/56913656/71645599-3ed20f00-2d0d-11ea-8649-fec892b0f382.png">
+![ubah](https://user-images.githubusercontent.com/72916741/104220700-76bc7800-5472-11eb-8551-168cae592584.png)
 
 * **Output Cari_data**
 
