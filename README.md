@@ -25,8 +25,7 @@
 ![ubah](https://user-images.githubusercontent.com/72916741/104220700-76bc7800-5472-11eb-8551-168cae592584.png)
 
 * **Output Cari_data**
-
-  <img width="428" alt="opsiCari" src="https://user-images.githubusercontent.com/56913656/71645619-704ada80-2d0d-11ea-9d52-eb1c26fcf281.png">
+![cari](https://user-images.githubusercontent.com/72916741/104221067-fc402800-5472-11eb-8a5b-e1e1ea796b22.png)
 
 * **Output Hapus_data**
 
