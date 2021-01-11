@@ -29,7 +29,7 @@
 
 * **Output Hapus_data**
 
-  <img width="421" alt="opsiHapus" src="https://user-images.githubusercontent.com/56913656/71645628-8f496c80-2d0d-11ea-994e-9d5de3582049.png">
+  ![hapus](https://user-images.githubusercontent.com/72916741/104221545-999b5c00-5473-11eb-9cf3-6374f2e6ebb9.png)
 
 * **Output break**
 
