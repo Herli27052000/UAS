@@ -2,7 +2,7 @@
 # PACKAGE & MODULE
 **Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:**
 
- <img width="230" alt="sss" src="https://user-images.githubusercontent.com/56913656/71645291-b2bde880-2d08-11ea-9155-c9cb1370ee9d.png">
+![praktikum uas](https://user-images.githubusercontent.com/72916741/104219116-44118000-5470-11eb-9f44-c492621ad8f3.png)
  
 * ``daftar_nilai.py`` berisi modul untuk  :
     * tambah_data
