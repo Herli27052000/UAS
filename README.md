@@ -19,8 +19,7 @@
 ![tambah](https://user-images.githubusercontent.com/72916741/104220009-7374bc80-5471-11eb-8414-4873b05fa928.png)
 
 * **Output daftar_nilai**
-
-  <img width="418" alt="opsiLihat" src="https://user-images.githubusercontent.com/56913656/71645584-164a1500-2d0d-11ea-99c9-51c4636c7cda.png">
+![lihat](https://user-images.githubusercontent.com/72916741/104220500-2d6c2880-5472-11eb-98d6-3e09ec86fc7c.png)
 
 * **Output ubah_data**
 
