@@ -16,8 +16,7 @@
     * input_data (yang meminta pengguna memasukkan data).
 * ``main.py`` berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 * **Output tambah_data**
-  
-   <img width="784" alt="opsiTambah" src="https://user-images.githubusercontent.com/56913656/71645566-d7b45a80-2d0c-11ea-95f4-64a19c61d4d1.png">
+![tambah](https://user-images.githubusercontent.com/72916741/104220009-7374bc80-5471-11eb-8414-4873b05fa928.png)
 
 * **Output daftar_nilai**
 
