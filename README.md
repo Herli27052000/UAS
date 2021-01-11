@@ -32,5 +32,5 @@
   ![hapus](https://user-images.githubusercontent.com/72916741/104221545-999b5c00-5473-11eb-9cf3-6374f2e6ebb9.png)
 
 * **Output break**
+![keluar](https://user-images.githubusercontent.com/72916741/104221729-e5e69c00-5473-11eb-952a-92d2eab7c779.png)
 
-  <img width="247" alt="opsiKeluar" src="https://user-images.githubusercontent.com/56913656/71645639-ae47fe80-2d0d-11ea-912a-38b9a71417a4.png">
